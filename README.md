@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ricard Skrudlik's GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricard Skrudlik's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=RikiSkrudlik&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats-ruby-one.vercel.app
+&show_icons=true&theme=radical
