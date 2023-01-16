@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=RikiSkrudlik)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikiSkrudlik)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikiSkrudlik)](https://github-readme-stats-ten-gilt.vercel.app)
