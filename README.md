@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Ricard Skrudlik's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=RikiSkrudlik&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-&show_icons=true&theme=radical
